@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\trunk\ASQL2 Final Project\ASQL-Final-Yoyo\ASQL-Final-Yoyo\bin\Debug\ASQL-Final-Yoyo.exe.config
+C:\Users\User\Desktop\trunk\ASQL2 Final Project\ASQL-Final-Yoyo\ASQL-Final-Yoyo\obj\Debug\ASQL-Final-Yoyo.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\trunk\ASQL2 Final Project\ASQL-Final-Yoyo\ASQL-Final-Yoyo\bin\Debug\ASQL-Final-Yoyo.exe
+C:\Users\User\Desktop\trunk\ASQL2 Final Project\ASQL-Final-Yoyo\ASQL-Final-Yoyo\bin\Debug\ASQL-Final-Yoyo.pdb
+C:\Users\User\Desktop\trunk\ASQL2 Final Project\ASQL-Final-Yoyo\ASQL-Final-Yoyo\obj\Debug\ASQL-Final-Yoyo.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\trunk\ASQL2 Final Project\ASQL-Final-Yoyo\ASQL-Final-Yoyo\obj\Debug\ASQL_Final_Yoyo.frmAdminPage.resources
+C:\Users\User\Desktop\trunk\ASQL2 Final Project\ASQL-Final-Yoyo\ASQL-Final-Yoyo\obj\Debug\ASQL_Final_Yoyo.frmMainMenu.resources
+C:\Users\User\Desktop\trunk\ASQL2 Final Project\ASQL-Final-Yoyo\ASQL-Final-Yoyo\obj\Debug\ASQL_Final_Yoyo.Properties.Resources.resources
+C:\Users\User\Desktop\trunk\ASQL2 Final Project\ASQL-Final-Yoyo\ASQL-Final-Yoyo\obj\Debug\ASQL_Final_Yoyo.frmUserPage.resources
+C:\Users\User\Desktop\trunk\ASQL2 Final Project\ASQL-Final-Yoyo\ASQL-Final-Yoyo\obj\Debug\ASQL-Final-Yoyo.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\trunk\ASQL2 Final Project\ASQL-Final-Yoyo\ASQL-Final-Yoyo\obj\Debug\ASQL-Final-Yoyo.exe
+C:\Users\User\Desktop\trunk\ASQL2 Final Project\ASQL-Final-Yoyo\ASQL-Final-Yoyo\obj\Debug\ASQL-Final-Yoyo.pdb
+C:\Users\User\Desktop\Cadsoft Interview\Yoyo\ASQL2 Final Project\ASQL-Final-Yoyo\ASQL-Final-Yoyo\bin\Debug\ASQL-Final-Yoyo.exe.config
+C:\Users\User\Desktop\Cadsoft Interview\Yoyo\ASQL2 Final Project\ASQL-Final-Yoyo\ASQL-Final-Yoyo\obj\Debug\ASQL-Final-Yoyo.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Cadsoft Interview\Yoyo\ASQL2 Final Project\ASQL-Final-Yoyo\ASQL-Final-Yoyo\obj\Debug\ASQL-Final-Yoyo.exe
+C:\Users\User\Desktop\Cadsoft Interview\Yoyo\ASQL2 Final Project\ASQL-Final-Yoyo\ASQL-Final-Yoyo\obj\Debug\ASQL-Final-Yoyo.pdb

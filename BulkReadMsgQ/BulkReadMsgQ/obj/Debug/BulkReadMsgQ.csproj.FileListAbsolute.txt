@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\trunk\BulkReadMsgQ\BulkReadMsgQ\bin\Debug\BulkReadMsgQ.exe.config
+C:\Users\User\Desktop\trunk\BulkReadMsgQ\BulkReadMsgQ\bin\Debug\BulkReadMsgQ.exe
+C:\Users\User\Desktop\trunk\BulkReadMsgQ\BulkReadMsgQ\bin\Debug\BulkReadMsgQ.pdb
+C:\Users\User\Desktop\trunk\BulkReadMsgQ\BulkReadMsgQ\obj\Debug\BulkReadMsgQ.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\trunk\BulkReadMsgQ\BulkReadMsgQ\obj\Debug\BulkReadMsgQ.mainForm.resources
+C:\Users\User\Desktop\trunk\BulkReadMsgQ\BulkReadMsgQ\obj\Debug\BulkReadMsgQ.Properties.Resources.resources
+C:\Users\User\Desktop\trunk\BulkReadMsgQ\BulkReadMsgQ\obj\Debug\BulkReadMsgQ.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\trunk\BulkReadMsgQ\BulkReadMsgQ\obj\Debug\BulkReadMsgQ.exe
+C:\Users\User\Desktop\trunk\BulkReadMsgQ\BulkReadMsgQ\obj\Debug\BulkReadMsgQ.pdb

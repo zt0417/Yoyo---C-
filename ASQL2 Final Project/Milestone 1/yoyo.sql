@@ -1,0 +1,57 @@
+CREATE DATABASE yoyo
+
+use yoyo
+
+CREATE TABLE SKUTable(
+SKU NVARCHAR(8) PRIMARY KEY,
+ProductDescription NVARCHAR(50),
+Colour NVARCHAR(24)
+)
+
+
+CREATE TABLE ScheduleTable(
+StartTime TIME,
+EndTime TIME,
+TheDate NVARCHAR(28),
+SKUID NVARCHAR(8),
+WorkArea NVARCHAR(50),
+PRIMARY KEY(StartTime,TheDate),
+FOREIGN KEY (SKUID) REFERENCES SKUTable(SKU)
+)
+
+
+CREATE TABLE RejectTable(
+RejectID INT identity(1,1) PRIMARY KEY,
+InspectionalLocation INT,
+TypeOfAction NVARCHAR(50),
+Reason NVARCHAR(50)
+)
+
+
+CREATE TABLE ProductionStateTable(
+StateID INT PRIMARY KEY,
+TheState NVARCHAR(50), 
+StateDescription NVARCHAR(50)
+)
+
+
+CREATE TABLE YoyoTable(
+WorkArea NVARCHAR(50),
+YoYoID NVARCHAR(128),
+LineNumber NVARCHAR(8),
+StateID INT,
+RejectID INT,
+DateTimeOfCompletion DATETIME,
+SKUID NVARCHAR(8),
+FOREIGN KEY (StateID) REFERENCES ProductionStateTable(StateID),
+FOREIGN KEY (RejectID) REFERENCES rejectTable(RejectID),
+FOREIGN KEY (SKUID) REFERENCES SKUTable(SKU)
+)
+
+
+CREATE TABLE UsersTable(
+ID INT PRIMARY KEY,
+Name NVARCHAR(50),
+ThePassword NVARCHAR(128),
+SecurityLevel INT
+)
